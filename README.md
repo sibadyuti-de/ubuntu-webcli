@@ -10,5 +10,9 @@ Default credentials :-
    Docker Command :-
                      
                      docker run -d -p 1234:3000 ubuntu/webcli
+                     
+ wetty program from https://github.com/butlerx/wetty
+ 
+ And xterm.js is used and for better performance socket is used instead of ajax 
        
 ![](https://github.com/sibadyuti-de/ubuntu-webcli/blob/main/ubuntu-webcli.jpg)
