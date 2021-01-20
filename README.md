@@ -11,3 +11,4 @@ Default credentials :-
                      
                      docker run -d -p 1234:3000 ubuntu/webcli
        
+![](https://github.com/sibadyuti-de/ubuntu-webcli/blob/main/ubuntu-webcli.jpg)
