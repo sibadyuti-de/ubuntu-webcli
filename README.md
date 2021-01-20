@@ -11,7 +11,7 @@ Default credentials :-
                      
                      docker run -d -p 1234:3000 ubuntu/webcli
                      
- Get web interface by localhost:3000
+ Get web interface by localhost:1234
                      
  wetty program from https://github.com/butlerx/wetty
  
